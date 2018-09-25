@@ -1,2 +1,0 @@
-# mobirisetest
-GitHub Pages
